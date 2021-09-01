@@ -13,14 +13,13 @@
 
 ```cd TikTok-Checker```
 
-```pip2 install -r requirements.txt```
 
-```python Tiktok.py```
+```python ph.py```
 
 
 ### [+] Single Command "> 
 ```
-apt install python && git clone https://github.com/iiAboooodii/PHP-Host.git && cd PHP-Host && pip2 install -r requirements.txt && python3 ph.py
+apt install python && git clone https://github.com/iiAboooodii/PHP-Host.git && cd PHP-Host && python3 ph.py
 ```
 ### [+] Features ">
 1. Make Free PHP Host.
